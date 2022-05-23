@@ -1,4 +1,4 @@
-# PyCon Italia 2022 Tickets and CfP Statisti
+# PyCon Italia 2022 Tickets and CfP Statistic
 
 ## Tickets Sold (Last Update 2022/05/21)
 
