@@ -12,7 +12,7 @@
 ![bokeh_plot(6)](https://user-images.githubusercontent.com/4196091/169890570-a976bcda-0d43-4289-a0d2-b3be0758ca8a.png)
 
 ### Nr. of Tickets grouped by Gender
-![bokeh_plot(8)](https://user-images.githubusercontent.com/4196091/169890714-3661eb33-96aa-407b-a4ca-cdea3c3fa1ae.png)
+![bokeh_plot(17)](https://user-images.githubusercontent.com/4196091/169973102-d59ebe88-b47d-47c1-abbf-eba3e3be6360.png)
 
 ## Ranking
 
