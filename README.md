@@ -5,6 +5,9 @@
 ### Tickets Total
 ![bokeh_plot(4)](https://user-images.githubusercontent.com/4196091/169890318-0997d375-0664-4abe-adbd-8d2e459e1ebc.png)
 
+### Tickets per Country
+![image](https://user-images.githubusercontent.com/4196091/170490370-cdc08080-0bb6-4505-97e3-a234f2099641.png)
+
 ### Nr. of Tickets grouped by fare
 ![bokeh_plot(5)](https://user-images.githubusercontent.com/4196091/169890439-b8dfb690-4866-4f8e-9b86-45db0c28175d.png)
 
