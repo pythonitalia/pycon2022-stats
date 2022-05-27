@@ -19,6 +19,25 @@
 
 ## Ranking
 
+### 2022 edition - Some stats 😊
+ - 256 proposals in total
+ - 188 people proposed themselves as speakers
+ - 30 proposals by female speakers
+ - 137 proposals by male speakers
+ - 4 from unspecified gender speakers
+ - 106 proposals in English
+ - 212 proposals in Italian
+ - 228 Talk proposed
+ - 28 Workshop proposed
+ - 110 Beginner level proposals
+ - 135 Intermediate level proposals
+ - 11 Advanced level proposals
+ - 71 proposals for the track Python & Friends
+ - 12 proposals for the track PyBusiness
+ - 94 proposals for the track PyData
+ - 11 proposals for the track PyCommunity
+ - 68 proposals for the track PyWeb & Devops
+
 ### Submissions per Track (Training and Talks)
 ![image](https://user-images.githubusercontent.com/4196091/169890979-115bfc6c-6b79-45a0-aa5a-b9f315593119.png)
 
