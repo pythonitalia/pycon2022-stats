@@ -3,19 +3,19 @@
 ## Tickets Sold (Last Update 2022/05/21)
 
 ### Tickets Total
-![bokeh_plot(4)](https://user-images.githubusercontent.com/4196091/169890318-0997d375-0664-4abe-adbd-8d2e459e1ebc.png)
+![bokeh_plot(22)](https://user-images.githubusercontent.com/4196091/171033099-7f0b0f49-0746-455b-b294-11350c44c008.png)
 
 ### Tickets per Country
-![image](https://user-images.githubusercontent.com/4196091/170490370-cdc08080-0bb6-4505-97e3-a234f2099641.png)
+![image](https://user-images.githubusercontent.com/4196091/171033277-f921741c-5a09-468b-b847-2734e82380e3.png)
 
-### Nr. of Tickets grouped by fare
-![bokeh_plot(5)](https://user-images.githubusercontent.com/4196091/169890439-b8dfb690-4866-4f8e-9b86-45db0c28175d.png)
+### Nr. of Tickets grouped by fare!
+![bokeh_plot(23)](https://user-images.githubusercontent.com/4196091/171033303-46488318-1a8a-4ce7-a958-39c31aa9dfe8.png)
 
 ### Nr. of Tickets grouped by type
-![bokeh_plot(6)](https://user-images.githubusercontent.com/4196091/169890570-a976bcda-0d43-4289-a0d2-b3be0758ca8a.png)
+![bokeh_plot(24)](https://user-images.githubusercontent.com/4196091/171033377-30f616ba-1784-4c69-a7d1-ef9f2855d483.png)
 
 ### Nr. of Tickets grouped by Gender
-![bokeh_plot(17)](https://user-images.githubusercontent.com/4196091/169973102-d59ebe88-b47d-47c1-abbf-eba3e3be6360.png)
+![bokeh_plot(25)](https://user-images.githubusercontent.com/4196091/171033409-190989f9-bfec-42d8-8b53-68f1c700f6b2.png)
 
 ## Ranking
 
